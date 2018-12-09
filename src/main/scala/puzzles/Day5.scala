@@ -31,5 +31,4 @@ object Day5 extends Puzzle with App {
 
   println(part1)
   println(part2)
-
 }
